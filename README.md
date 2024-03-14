@@ -1,5 +1,7 @@
-<div class = "container" align="left">
-  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lzM200YzR6ZWN3aHVnb3cyZTh2bGRmNXBvN3dxanJqbHI3cmNqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif" width ="50%" />
+<div class = "container">
+  <div class = "gif" align="left">
+    <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ1bGNsNzBzc2x5NHB5ZTQ2cGVoYWJ1ZGxlbTBrbXhwdHQ1a2ZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QGoxu7KIgMPvKFP3ze/giphy.gif" width ="20%" />
+  </div>
 </div>
 
 <!--
