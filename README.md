@@ -1,6 +1,5 @@
 <div class = "container" align="center">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/Za2KlPwihhN2YJ6eno" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/work-computer-laptop-Za2KlPwihhN2YJ6eno"></a></p>
+  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lzM200YzR6ZWN3aHVnb3cyZTh2bGRmNXBvN3dxanJqbHI3cmNqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Za2KlPwihhN2YJ6eno/giphy.gif"
 </div>
 
 <!--
