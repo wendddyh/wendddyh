@@ -17,7 +17,18 @@
   <p>About Me:</p>
   <p>Hey, I'm Wendy, developer based in Australia and I'm passionate about building a digital construction.
   <p>:construction_worker_woman: Civil-Engineer to Software Engineer :woman_technologist: </p>
-  - Check out my <a href ="https://wendddyh.github.io/whcodes/">website/>
+  - Check out my <a href ="https://wendddyh.github.io/whcodes/">website
+  - I'm currently upskilling and learning more on React Js and Native
+
+  <h2>Toolbox</h2>
+  - Front-end Development : 
+  - Back-end Development : 
+
+  ---
+
+  Of course, we are going to do fun facts
+  - Currently obssessed with One Piece
+  - - :mailbox:How to reach me: Get in touch in <a href="https://www.linkedin.com/in/wenddyhenry/"
 
 </div>
 
