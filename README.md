@@ -17,8 +17,9 @@
   <p>About Me:</p>
   <p>Hey, I'm Wendy,web developer based in Australia and I'm passionate about building a digital construction.
   <p>:construction_worker_woman: Civil-Engineer to Software Engineer :woman_technologist: </p>
-  - Check out my <a href ="https://wendddyh.github.io/whcodes/" /> website
+  - Check out my <a href = "https://wendddyh.github.io/whcodes/">website</a>
 
+---
   :computer: <p> Currently Learning</p>
   - React Js and Native
 
@@ -33,12 +34,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
-  ### :mailbox: How to reach me: Get in touch in <a href= "https://www.linkedin.com/in/wenddyhenry/" /> linkedin
+ :mailbox: How to reach me: Get in touch in <a href= "https://www.linkedin.com/in/wenddyhenry/" /> linkedin
 
-- ---
+---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wendddyh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wendddyh&theme=violet-dark&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
 
