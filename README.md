@@ -15,14 +15,21 @@
 <div class ="about" align="left">
     ---
   <p>About Me:</p>
-  <p>Hey, I'm Wendy, developer based in Australia and I'm passionate about building a digital construction.
+  <p>Hey, I'm Wendy,web developer based in Australia and I'm passionate about building a digital construction.
   <p>:construction_worker_woman: Civil-Engineer to Software Engineer :woman_technologist: </p>
-  - Check out my <a href ="https://wendddyh.github.io/whcodes/">website
+  - Check out my <a href ="https://wendddyh.github.io/whcodes/" /> website
+
+  <H2> Currently Learning</H2>
   - I'm currently upskilling and learning more on React Js and Native
 
   <h2>Toolbox</h2>
-  - Front-end Development : 
-  - Back-end Development : 
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
   ---
 
