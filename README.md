@@ -34,10 +34,7 @@
 </div>
 
   ---
-
-  Of course, we are going to do fun facts
-  - Currently obssessed with One Piece
-  - - :mailbox:How to reach me: Get in touch in <a href="https://www.linkedin.com/in/wenddyhenry/"
+- :mailbox:How to reach me: Get in touch in <a href= "https://www.linkedin.com/in/wenddyhenry/" /> linkedin
 
 </div>
 
