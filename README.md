@@ -21,7 +21,7 @@
 
 ---
   :computer: <p> Currently Learning</p>
-  - React Js and Native
+  - AWS Cloud Foundation and Github Action
 
   :memo: <p>Toolbox</p>
   <div>
