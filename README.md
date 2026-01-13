@@ -9,8 +9,6 @@ I'm a passionate **Junior Software Developer** and I'm passionate about building
 - 🌱 Currently learning: **Github Action**
 - 🔭 Working on: **creating an application to practice typing**
 - 🌍 Languages: **I speak native language of Borneo and in some computer languages **
-- 📫 How to reach me: **[[Linkedin](https://www.linkedin.com/in/wenddyhenry/)]**
-- ⚡ Fun fact: **was working as a civil engineer**
 - ([Website](https://wendddyh.github.io/whcode/))
 
 ---
